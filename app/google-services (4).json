@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "825300758316",
+    "project_id": "momtuary",
+    "storage_bucket": "momtuary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825300758316:android:ee7a8b1401c9a9e4340689",
+        "android_client_info": {
+          "package_name": "com.app.Momtuary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825300758316-b33mts23cjn3kpumjodt3m72j2698ot7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.Momtuary",
+            "certificate_hash": "55a48e1a17a067c7fb22efb3639558eac0fc313f"
+          }
+        },
+        {
+          "client_id": "825300758316-62gb8fdpms9fatbjmkk61hing12pmqhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVisJtqrzTDPafI_0cGbybDofEncYeYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825300758316-62gb8fdpms9fatbjmkk61hing12pmqhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
